@@ -8,14 +8,4 @@
 
 ## Test Screen Captures
 
-- AddSalariedEmployeeTransactionTest.java
-
-![alt text](https://image.ibb.co/byNqDe/1.jpg)
-
-- DeleteEmployeeTransactionTest.java
-
-![alt text](https://image.ibb.co/f4VMKK/2.jpg)
-
-- ChangeMemberTransactionTest.java
-
-![alt text](https://image.ibb.co/kWyK6z/3.jpg)
+![alt text](https://serving.photos.photobox.com/59257909b2a8344911819d1a68b9b4564943c5e684d7218fc9771f74a99a7c8780c25a96.jpg)
